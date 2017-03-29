@@ -1,0 +1,3 @@
+# DCGAN
+
+CIFAR 10
